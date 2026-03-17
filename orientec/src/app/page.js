@@ -12,6 +12,7 @@ export default function Home() {
           Descubra qual curso tecnico combina com seu perfil e veja as oportunidades de carreira
         </h3>
 
+
         <div className="flex gap-4 mt-6">
           <button className="flex items-center gap-2 bg-blue-800 text-white px-5 py-2.5 rounded-md font-medium hover:bg-blue-900 transition">
             Fazer Teste Vocacional
