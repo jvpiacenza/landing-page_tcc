@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#dff0f5]">
 
       <div className="flex flex-col bg-[#3491d9] items-center justify-center w-100 h-100 rounded-3xl">
-        <h1>Sobre</h1>
+        <h1>sobre</h1>
       </div>
 
     </div>
